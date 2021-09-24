@@ -1,0 +1,4 @@
+github.com/silvanocostanzo/go_math v1.0.0 h1:ziikjDFwNSQwDRJ2Lu+YfW6EUTjU4bRoNSSIK/ixd+E=
+github.com/silvanocostanzo/go_math v1.0.0/go.mod h1:hsrqssun6uAkRB9xK/EeMT7WLTpgw0HgR0OWbm5JzgM=
+github.com/silvanocostanzo/go_math/v2 v2.0.0 h1:fgRvBk9h6XRVa4JQ/uWvx2l4FTObMMUSvVVF8k6WD+s=
+github.com/silvanocostanzo/go_math/v2 v2.0.0/go.mod h1:kF9RNc55XqMtVqIvReGhaDKTAAXRKcBiIAd9jIkcmdo=
